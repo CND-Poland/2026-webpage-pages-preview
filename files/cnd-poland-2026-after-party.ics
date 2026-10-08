@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CND Poland//After Party 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:after-party-2026@cloudnativedayspoland.org
+DTSTAMP:20260930T000000Z
+DTSTART:20261022T150000Z
+DTEND:20261022T180000Z
+SUMMARY:CND Poland 2026 — After Party
+LOCATION:Varso Tower\, Chmielna 69\, 00-801 Warszawa\, Poland
+DESCRIPTION:Food\, drinks and the whole cloud native community — right at
+  the conference venue\, straight after the last talk.\n\nhttps://cloudnati
+ vedayspoland.org/#after-party
+URL:https://cloudnativedayspoland.org/#after-party
+END:VEVENT
+END:VCALENDAR
